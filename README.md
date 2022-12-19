@@ -1,2 +1,2 @@
-# simpsons
+# Simpsons
 SPARQL skoleprosjekt
